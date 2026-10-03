@@ -22,5 +22,5 @@ Focused on **Cloud Architecture**, **Distributed Systems**, and **Agentic AI Pla
 ### 📫 Connect
 - **LinkedIn:** [Eduardo Lopez](https://linkedin.com)
 - **Email:** edyllpz@gmail.com
-- **Mobility:** Munich (Target), Dublin, Amsterdam
+- **Mobility:** Munich (Target), Dublin, Amsterdam, Denver CO, New York NY, London
   
