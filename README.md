@@ -9,7 +9,7 @@ Focused on **Cloud Architecture**, **Distributed Systems**, and **Agentic AI Pla
 - **Cloud & Infrastructure:** AWS (S3, Lambda, VPC), Microsoft Azure, Docker, Supabase, Linux
 - **AI & Systems:** LangGraph, LangChain, Model Context Protocol (MCP), pgvector, REST APIs
 - **Databases & Tools:** PostgreSQL, DBeaver, TimescaleDB, Git, GitHub Actions
-- **Languages:** Python, TypeScript, Java, C/C++, SQL
+- **Languages:** Python, TypeScript, Java, SQL
 
 ---
 
